@@ -1,0 +1,9 @@
+c:\users\khayal\documents\visual studio 2017\Projects\QonaqDefteri\QonaqDefteri\bin\Debug\QonaqDefteri.exe.config
+c:\users\khayal\documents\visual studio 2017\Projects\QonaqDefteri\QonaqDefteri\bin\Debug\QonaqDefteri.exe
+c:\users\khayal\documents\visual studio 2017\Projects\QonaqDefteri\QonaqDefteri\bin\Debug\QonaqDefteri.pdb
+c:\users\khayal\documents\visual studio 2017\Projects\QonaqDefteri\QonaqDefteri\obj\Debug\QonaqDefteri.csprojResolveAssemblyReference.cache
+c:\users\khayal\documents\visual studio 2017\Projects\QonaqDefteri\QonaqDefteri\obj\Debug\QonaqDefteri.Form1.resources
+c:\users\khayal\documents\visual studio 2017\Projects\QonaqDefteri\QonaqDefteri\obj\Debug\QonaqDefteri.Properties.Resources.resources
+c:\users\khayal\documents\visual studio 2017\Projects\QonaqDefteri\QonaqDefteri\obj\Debug\QonaqDefteri.csproj.GenerateResource.Cache
+c:\users\khayal\documents\visual studio 2017\Projects\QonaqDefteri\QonaqDefteri\obj\Debug\QonaqDefteri.exe
+c:\users\khayal\documents\visual studio 2017\Projects\QonaqDefteri\QonaqDefteri\obj\Debug\QonaqDefteri.pdb
